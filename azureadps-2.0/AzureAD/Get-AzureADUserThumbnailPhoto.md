@@ -78,7 +78,7 @@ Accept wildcard characters: False
 ```
 
 ### -ObjectId
-The object ID of the user for which the thumbnail photo is retrieved
+The object ID "or UPN" of the user for which the thumbnail photo is retrieved
 
 ```yaml
 Type: String
